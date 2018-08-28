@@ -1,0 +1,3 @@
+module.exports = {
+  howManyLegPressesCanTylerDo: 'infinity',
+};
